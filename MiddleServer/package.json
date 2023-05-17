@@ -1,0 +1,20 @@
+{
+  "name": "MiddleServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MiddleServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node MiddleServer"
+  },
+  "keywords": [],
+  "author": "KimDaeYeong",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.3"
+  }
+}
